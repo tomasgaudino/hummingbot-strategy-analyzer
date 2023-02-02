@@ -6,6 +6,10 @@ We believe this project has great potential, and we are committed to continuousl
 
 Please feel free to open issues for bug reports or feature requests, and we'll do our best to address them as soon as possible. We welcome all contributions, from small bug fixes to major feature enhancements. Let's build something amazing together!</p>
   
+  <h1> Run it with Docker!</h1>
+  <p>Use the following command to run it with the available Dockerhub image:</p>
+  
+  <code>docker run -p 8501:8501 drupman08/hummingbot-strategy-analyzer</code>
   
   <h1>Guide to Using the Hummingbot Strategies Analyzer</h1>
   <p>This project is in development state. Please don't exconsists of two Streamlit pages:</p>
